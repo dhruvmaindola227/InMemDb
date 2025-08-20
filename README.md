@@ -1,1 +1,1 @@
-Please add vessels.json in the Data folder (InMemoryDataBase\InMemoryDataBase\Data)
+Please create Data folder parallel to the .csproj file and add the vessels.json in the Data folder
